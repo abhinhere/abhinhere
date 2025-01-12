@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhin</h1>
 <h3 align="center">A passionate full developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinhere&label=Profile%20views&color=0e75b6&style=flat" alt="abhinhere" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhinhere" alt="abhinhere" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [www.abhin.in](www.abhin.in)
 
 - 📫 How to reach me **abhinchelakkal@gmail.com**
