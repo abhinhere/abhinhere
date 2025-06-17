@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhin.C</h1>
 <h3 align="center">A passionate fullstack developer</h3>
 
-- 👨‍💻 I'm here [Abhin.in](www.abhin.in)
+- 👨‍💻 I'm here [Abhin.in](https://abhin.in)
 
 - 📫 connect with me **abhinchelakkal@gmail.com**
 
